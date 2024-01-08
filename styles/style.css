@@ -239,3 +239,21 @@ margin-left: 10%;
 .holy{
     color: #F00;
 }
+/* discount section style */
+
+.discount{
+    display:flex;
+    margin-top: 50px;
+    justify-self:;
+    height:430px ;
+}
+.img3{
+    width: 216px;
+    height: 430px;
+}
+.img2{
+    margin-left:50%;
+}
+.red{
+    height:228px ;
+}
