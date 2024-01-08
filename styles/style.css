@@ -122,5 +122,25 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+/* adderss section styles */
 
+ .address{
+    margin-top: 60px;
+  background-color: rgb(202, 119, 119);
+  height: 400px;
+}
+.adderss p{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.address button{
+    border-radius: 8px;
+    padding: 4px;;
+    color:rgb(207, 13, 13)
+}
 
