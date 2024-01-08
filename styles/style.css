@@ -256,3 +256,29 @@ margin-left: 10%;
 .red{
     height:228px ;
 }
+  
+/* gift section styles */
+.gift{
+    margin-top: 80px;
+    height: 200px;
+}
+.gift h6{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 10px;
+}
+.gift h2{
+    color: #070211;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+margin-bottom: 10px;
+}
+.gift p{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+width: 750px;
+}
