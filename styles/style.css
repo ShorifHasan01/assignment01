@@ -15,10 +15,10 @@ margin: 0 auto;
 .banner{
     background-image:url('../resources/Banner\ Image.png');
     height: 600px;
-    position: relative;
+    position: relative;  
 }
 .banner h4{
-    color: #FFF;
+    color: #d8db05;
 text-align: center;
 font-size: 32px;
 font-style: normal;
@@ -29,7 +29,7 @@ position: relative;
 top: 90px;
 }
 .banner h2{
-    color: #FFF;
+    color: #dadd16;
 text-align: center;
 font-size: 72px;
 font-style: normal;
@@ -378,3 +378,8 @@ footer{
 
 }
 
+/* dfkjdfljdfkj */
+
+.imag:hover{  
+background-color: orange;
+}
